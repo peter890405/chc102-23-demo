@@ -17,6 +17,9 @@
       },
       "api": {
         "chc10223demo": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
